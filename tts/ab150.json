@@ -1,0 +1,45 @@
+{
+ "model": "eleven_multilingual_v2",
+ "voices": {
+  "brian": "nPczCjzI2devNBz1zQrb",
+  "adam": "pNInz6obpgDQGcFmaJgB",
+  "sarah": "EXAVITQu4vr4xnJ7T6ey"
+ },
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.3,
+  "use_speaker_boost": true,
+  "speed": 1.08
+ },
+ "beats": [
+  {
+   "id": "hook",
+   "text": "Life satisfaction falls until your late forties. Then it climbs back."
+  },
+  {
+   "id": "setup",
+   "text": "Four thousand Scottish adults rated their life from zero to ten."
+  },
+  {
+   "id": "dip",
+   "text": "Eight point one in your early twenties. Seven point five around fifty."
+  },
+  {
+   "id": "rise",
+   "text": "Then back up to seven point nine in your late sixties."
+  },
+  {
+   "id": "world",
+   "text": "In a hundred and thirty-two countries, the low point is around forty-eight."
+  },
+  {
+   "id": "why",
+   "text": "The dip is small, but real. If midlife feels heavy, you're right on schedule."
+  },
+  {
+   "id": "end",
+   "text": "Not just you."
+  }
+ ]
+}
